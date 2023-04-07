@@ -13,7 +13,7 @@
             <p v-else>Không có liên hệ nào.</p>
             <div class="mt-3 row justify-content-around align-items-center">
                 <button class="btn btn-sm btn-primary" @click="refreshList()">
-                    <i class="fas fa-arrow-rotate-right"></i> Làm mới
+                    &#x21bb Làm mới
                 </button>
                 <button class="btn btn-sm btn-success" @click="goToAddContact()">
                     <i class="fas fa-plus"></i> Thêm mới
